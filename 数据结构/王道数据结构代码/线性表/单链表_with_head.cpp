@@ -199,15 +199,18 @@ void print(LinkList L)
 int main()
 {
     LinkList L;
-
     //尾插法
-    // List_TailInsert(L);
-    // cout << "尾插的结果: ";
+    List_TailInsert(L);
+    cout << "尾插的结果: ";
+    print(L);
+
+    // //头插法
+    // List_HeadInsert(L);
+    // cout << "头插的结果: ";
     // print(L);
 
-    //头插法
-    List_HeadInsert(L);
-    cout << "头插的结果: ";
+    //按值查找元素
+    cout << "链表值为2的元素：" << LocateElem(L, 2)->data << endl;
     print(L);
 
     //获取链表的元素

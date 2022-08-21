@@ -46,14 +46,14 @@
 - [王道2023年操作系统复习全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 - [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0)
 - [第二章：进程与线程](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B)
-
 - [第三章：内存管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
+- [第四章：文件管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86)
 
 ## 计算机网络
 
 - [王道2023年计算机网络复习全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 
-8月20号-8月28号复习计算机网络，预计20号开始更新笔记和思维导图
+8月22号-8月28号复习计算机网络，预计22号开始更新笔记和思维导图
 
 
 

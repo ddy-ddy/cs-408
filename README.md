@@ -53,8 +53,7 @@
 ## 计算机网络
 
 - [王道2023年计算机网络复习全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
-
-8月22号-8月28号复习计算机网络，预计22号开始更新笔记和思维导图
+- [第一章：计算机网络体系结构](https://github.com/ddy-ddy/cs-408/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.pdf)
 
 
 

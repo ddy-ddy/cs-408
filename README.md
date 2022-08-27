@@ -53,7 +53,8 @@
 ## 计算机网络
 
 - [王道2023年计算机网络复习全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
-- [第一章：计算机网络体系结构](https://github.com/ddy-ddy/cs-408/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.pdf)
+- [第一章：计算机网络体系结构](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+- [第二章：物理层](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 
 
 
@@ -61,7 +62,7 @@
 
 - [王道2023年计算机网络复习全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 
-7月份已经复习过一遍了，但是思维导图比较乱，准备8月28日-9月10日第二轮复习计算机组成原理，预计28号开始更新笔记和思维导图
+7月份已经复习过一遍了，但是思维导图比较乱，准备9月1日-9月15日第二轮复习计算机组成原理，预计1号开始更新笔记和思维导图
 
 
 
@@ -69,4 +70,4 @@
 
 - [王道2023年数据结构全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
-6月份已经复习过一遍，但是思维导图没有现在的完善，准备9月10号-9月25号第二轮复习数据结构，预计10号考试更新笔记和思维导图
+6月份已经复习过一遍，但是思维导图没有现在的完善，准备9月15号-9月25号第二轮复习数据结构，预计15号考试更新笔记和思维导图

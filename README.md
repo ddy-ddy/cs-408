@@ -67,8 +67,8 @@
 ## 计算机组成原理
 
 - [王道2023年计算机网络复习全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
-
-7月份已经复习过一遍了，但是思维导图比较乱，准备9月1日-9月15日第二轮复习计算机组成原理，预计1号开始更新笔记和思维导图
+- [王道2023年计算机组成原理刷题本【选择题】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
+- [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 
 
 

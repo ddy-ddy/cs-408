@@ -66,7 +66,7 @@
 
 ## 计算机组成原理
 
-- [王道2023年计算机网络复习全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
+- [王道2023年计算机组成原理全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 - [王道2023年计算机组成原理刷题本【选择题】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 - [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 

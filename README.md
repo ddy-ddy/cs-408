@@ -11,15 +11,23 @@
 
 ## 目录
 
-- [复习心得&做笔记软件推荐](https://github.com/ddy-ddy/cs-408/#%E5%A4%8D%E4%B9%A0%E5%BF%83%E5%BE%97&%E5%81%9A%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90)
+[复习心得&做笔记软件推荐](https://github.com/ddy-ddy/cs-408/#%E5%A4%8D%E4%B9%A0%E5%BF%83%E5%BE%97&%E5%81%9A%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90)
 
-- [数据结构资源和笔记](https://github.com/ddy-ddy/cs-408/#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%B5%84%E6%BA%90%E5%92%8C%E7%AC%94%E8%AE%B0)
+​	- [刚开始的复习心得](https://github.com/ddy-ddy/cs-408/#%E5%A4%8D%E4%B9%A0%E5%BF%83%E5%BE%97&%E5%81%9A%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90)
 
-- [计算机组成原理资源和笔记](https://github.com/ddy-ddy/cs-408/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%B5%84%E6%BA%90%E5%92%8C%E7%AC%94%E8%AE%B0)
+​	- [为什么不推荐做思维导图和手写笔记？](https://github.com/ddy-ddy/cs-408/#%E5%A4%8D%E4%B9%A0%E5%BF%83%E5%BE%97&%E5%81%9A%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90)
 
-- [操作系统资源和笔记](https://github.com/ddy-ddy/cs-408/#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%B5%84%E6%BA%90%E5%92%8C%E7%AC%94%E8%AE%B0)
+​	- [个人推荐用OneNote做笔记](https://github.com/ddy-ddy/cs-408/#%E5%A4%8D%E4%B9%A0%E5%BF%83%E5%BE%97&%E5%81%9A%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90)
 
-- [计算机网络资源和笔记](https://github.com/ddy-ddy/cs-408/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E8%B5%84%E6%BA%90%E5%92%8C%E7%AC%94%E8%AE%B0)
+​	- [结语](https://github.com/ddy-ddy/cs-408/#%E5%A4%8D%E4%B9%A0%E5%BF%83%E5%BE%97&%E5%81%9A%E7%AC%94%E8%AE%B0%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90)
+
+[数据结构资源和笔记](https://github.com/ddy-ddy/cs-408/#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%B5%84%E6%BA%90%E5%92%8C%E7%AC%94%E8%AE%B0)
+
+[计算机组成原理资源和笔记](https://github.com/ddy-ddy/cs-408/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%B5%84%E6%BA%90%E5%92%8C%E7%AC%94%E8%AE%B0)
+
+[操作系统资源和笔记](https://github.com/ddy-ddy/cs-408/#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%B5%84%E6%BA%90%E5%92%8C%E7%AC%94%E8%AE%B0)
+
+[计算机网络资源和笔记](https://github.com/ddy-ddy/cs-408/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E8%B5%84%E6%BA%90%E5%92%8C%E7%AC%94%E8%AE%B0)
 
 
 

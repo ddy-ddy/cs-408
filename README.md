@@ -100,7 +100,6 @@
 
 视频我没有跟着王道学，而是跟着[湖科大计算机网络视频](https://www.bilibili.com/video/BV1c4411d7jb?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click)学习的，这个视频的动画不是一般的好！理解十分的轻松。
 
-- [王道2023年计算机网络复习全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 - [第一章：计算机网络体系结构](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 - [第二章：物理层](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 - [第三章：数据链路层](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
@@ -114,7 +113,6 @@
 
 目前第一章和第五章是onenote的笔记，其余是思维导图。后续会替换成onenote的笔记
 
-- [王道2023年操作系统复习全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 - [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0)
 - [第二章：进程与线程](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B)
 - [第三章：内存管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
@@ -127,16 +125,12 @@
 
 计算机组成原理我是靠着王道视频和王道书过来的，如果实在有不理解的地方，我就会google，看各种博客。有些博客确实讲的很不错，精辟且易懂。计组难，但是还是有章可循的，主要以做题为导向！
 
-- [王道2023年计算机组成原理全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
-- [王道2023年计算机组成原理选择题刷题本【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 - [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 - [第二章：数据的表示和运算](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 
 
 
 ## 数据结构
-
-- [王道2023年数据结构全书【PDF】](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
 预计9月20号-9月30号第二轮复习数据结构，预计20号开始更新内容
 

@@ -171,9 +171,17 @@
 
 ## 七、Onenote文件链接
 
-可能大家看pdf不是很方便，我分享了我OneNote文件的链接，大家可以查看并编辑。
+- 由于pdf文件有好几MB，在网页有可能打不开pdf，可以下载到本地查看
+- 可能大家看pdf不是很方便，我分享了[OneNote文件的链接](https://1drv.ms/u/s!AvpCy58GefJpa-2uKQcnJFxc2Yg)。大家可以在线浏览并保存到本地
 
-可能mac端操作没有win方便。还有就是访问好像要挂🪜，微软的速度一言难尽😂
+- 可能mac端操作onenote没有win方便，导出pdf文件需要到移动端设备点击分享，然后导出pdf。
+- 还有就是访问OneNote文件好像要挂🪜，最好用Google浏览器打开。微软的速度一言难尽😂
 
-https://1drv.ms/u/s!AvpCy58GefJpa-2uKQcnJFxc2Yg
+
+
+有任何问题都可以提issue联系我呀！如果你有好的资源或者学习方法建议可以提issue或者PR！
+
+持续更新♪(･ω･)ﾉ
+
+
 

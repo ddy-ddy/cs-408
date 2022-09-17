@@ -35,7 +35,9 @@
 
 六、王道书和刷题本
 
-七、OneNote文件链接
+七、其他资源
+
+八、OneNote文件链接
 
 
 
@@ -170,7 +172,15 @@
 
 
 
-## 七、Onenote文件链接
+## 七、其他资源
+
+- [2023大纲对比.xlsx](https://github.com/ddy-ddy/cs-408/blob/master/其他资源/2023大纲对比.xlsx)
+
+- [历年真题考频统计.xlsx](https://github.com/ddy-ddy/cs-408/blob/master/其他资源/历年真题考频统计.xlsx)
+
+
+
+## 八、Onenote文件链接
 
 - 由于pdf文件有好几MB，在网页有可能打不开pdf，可以下载到本地查看
 - 可能大家看pdf不是很方便，我分享了[OneNote文件的链接](https://1drv.ms/u/s!AvpCy58GefJpa-2uKQcnJFxc2Yg)。大家可以在线浏览并保存到本地

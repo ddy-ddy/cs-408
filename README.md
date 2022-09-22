@@ -220,7 +220,7 @@
 
 - 由于pdf文件有好几MB，在网页有可能打不开pdf，可以下载到本地查看
 
-- 可能大家看pdf不是很方便，我分享了[OneNote文件](https://1drv.ms/u/s!AvpCy58GefJpazpppV8jLGbjtAg)。大家可以在线浏览并保存到本地
+- 可能大家看pdf不是很方便，我分享了[OneNote文件](https://1drv.ms/u/s!AvpCy58GefJpa0D63jFWUL7CUUI)。大家可以在线浏览并保存到本地
 
 - 可能mac端操作onenote没有win方便，导出pdf文件需要到移动端设备点击分享，然后导出pdf。
 

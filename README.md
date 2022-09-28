@@ -172,9 +172,9 @@
 
 目前第一章和第五章是onenote的笔记，其余是思维导图。后续会替换成onenote的笔记
 
-- [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0)
-- [第二章：进程与线程](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B)
-- [第三章：内存管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86)
+- [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+- [第二章：进程与线程](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+- [第三章：内存管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 - [第四章：文件管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86)
 - [第五章：I/O管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%BA%94%E7%AB%A0%20IO%E7%AE%A1%E7%90%86)
 

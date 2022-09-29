@@ -175,7 +175,7 @@
 - [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 - [第二章：进程与线程](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 - [第三章：内存管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-- [第四章：文件管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86)
+- [第四章：文件管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 - [第五章：I/O管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%BA%94%E7%AB%A0%20IO%E7%AE%A1%E7%90%86)
 
 

@@ -199,6 +199,7 @@
 - [第一章：绪论](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 - [第二章：线性表](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 - [第三章：栈、队列和数组](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+- [第四章：串](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
 
 

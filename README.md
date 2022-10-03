@@ -147,7 +147,7 @@
 
 这些笔记**不单单**是王道书的知识点，**还包括了**我借鉴各类视频，博客，书籍融合的知识点「借鉴的资源会写在对应章节中」，**以及**我做题目之后的心得和查缺补漏的知识点。**后续**还会加上自己总结的易混淆和常考知识点，当然也少不了题目(*❦ω❦)
 
-现在正在第二轮复习中，笔记也在不断的更新中~
+现在正在联系真题中中，笔记已经全部更新完毕，后续会不断的精简知识点、添加题目以及解题步骤~~~
 
 
 
@@ -204,13 +204,15 @@
 
 数据结构网上有很多质量很高的文章。有图解动画还有代码，这里推荐几个我看过的博客:[Data-Structres](https://github.com/callmePicacho/Data-Structres) | [算法大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/06.%E7%AE%97%E6%B3%95%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 
+数据结构部分的笔记自认为做的不是很好，主要是因为网上有很多博客讲解数据结构，自己知识搭了整个知识框架，具体的内容和考点还是不够精细的，如果有做的不好的地方，还请批评指正，后续也会结合我做题的情况改进笔记。
+
 👇下图是数据结构笔记中关于**二叉树四种遍历方式**的知识点：包括遍历过程，示例图，代码。![](https://tva1.sinaimg.cn/large/006y8mN6gy1h6rbolipvaj31r20u0qbo.jpg)
 
 - [第一章：绪论](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 - [第二章：线性表](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 - [第三章：栈、队列和数组](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 - [第四章：串](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
-- [第五章：树和二叉树]((https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84))
+- [第五章：树和二叉树](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
 
 

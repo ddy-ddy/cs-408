@@ -1,6 +1,6 @@
 # 💻cs-408
 
-- 构建本仓库的初衷是记录自己备考计算机专业课408的过程
+- 构建[本仓库](https://github.com/ddy-ddy/cs-408)的初衷是记录自己备考计算机专业课408的过程
 - 本仓库收纳了**2023年四本王道复习指导书**和**2023年王道书上的刷题本**
 - 本仓库分享了一些自己从2022年6月备考以来的**学习408心得**
 - 本仓库分享了自己使用**OntNote制作的电子笔记**
@@ -157,21 +157,21 @@
 
 👇下图是数据结构笔记中关于**二叉树四种遍历方式**的知识点：包括遍历过程，示例图，代码。![](https://tva1.sinaimg.cn/large/006y8mN6gy1h6rbolipvaj31r20u0qbo.jpg)
 
-- [第一章：绪论](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+- [第一章：绪论](https://github.com/ddy-ddy/cs-408/tree/master/1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
-- [第二章：线性表](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+- [第二章：线性表](https://github.com/ddy-ddy/cs-408/tree/master/1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
-- [第三章：栈、队列和数组](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+- [第三章：栈、队列和数组](https://github.com/ddy-ddy/cs-408/tree/master/1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
-- [第四章：串](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+- [第四章：串](https://github.com/ddy-ddy/cs-408/tree/master/1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
-- [第五章：树和二叉树](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+- [第五章：树和二叉树](https://github.com/ddy-ddy/cs-408/tree/master/1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
-- [第六章：图](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+- [第六章：图](https://github.com/ddy-ddy/cs-408/tree/master/1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
-- [第七章：查找](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+- [第七章：查找](https://github.com/ddy-ddy/cs-408/tree/master/1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
-- [第八章：排序](https://github.com/ddy-ddy/cs-408/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+- [第八章：排序](https://github.com/ddy-ddy/cs-408/tree/master/1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
     
 
@@ -181,13 +181,13 @@
 
 👇下图是计组笔记中一个关于**控制器和运算器相关知识点的对比**表格![](https://tva1.sinaimg.cn/large/e6c9d24egy1h6fbzpbtvyj226p0u0dru.jpg)
 
-- [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
-- [第二章：数据的表示和运算](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
-- [第三章：存储系统](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
-- [第四章：指令系统](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
-- [第五章：中央处理器](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
-- [第六章：总线](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
-- [第七章：输入/输出系统](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
+- [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
+- [第二章：数据的表示和运算](https://github.com/ddy-ddy/cs-408/tree/master/2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
+- [第三章：存储系统](https://github.com/ddy-ddy/cs-408/tree/master/2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
+- [第四章：指令系统](https://github.com/ddy-ddy/cs-408/tree/master/2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
+- [第五章：中央处理器](https://github.com/ddy-ddy/cs-408/tree/master/2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
+- [第六章：总线](https://github.com/ddy-ddy/cs-408/tree/master/2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
+- [第七章：输入/输出系统](https://github.com/ddy-ddy/cs-408/tree/master/2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 
 
 
@@ -199,15 +199,15 @@
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6gy1h6rbvlwi2fj318n0u0wkn.jpg)
 
-- [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-- [第二章：进程与线程](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-- [第三章：内存管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-- [第四章：文件管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-- [第五章：I/O管理](https://github.com/ddy-ddy/cs-408/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%BA%94%E7%AB%A0%20IO%E7%AE%A1%E7%90%86)
+- [第一章：计算机系统概述](https://github.com/ddy-ddy/cs-408/tree/master/3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+- [第二章：进程与线程](https://github.com/ddy-ddy/cs-408/tree/master/3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+- [第三章：内存管理](https://github.com/ddy-ddy/cs-408/tree/master/3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+- [第四章：文件管理](https://github.com/ddy-ddy/cs-408/tree/master/3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+- [第五章：I/O管理](https://github.com/ddy-ddy/cs-408/tree/master/3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 
 
 
-## 无、计算机网络
+## 五、计算机网络
 
 计算机网络我学习的过程是自顶向下的，先学个概述，然后从应用层一路向下。应用层更贴近于日常生活，所以上手快。
 
@@ -215,28 +215,28 @@
 
 👇下图是计网笔记中与**TCP拥塞控制算法**有关的知识点![](https://tva1.sinaimg.cn/large/006y8mN6gy1h6rc2qv1jjj31bn0u0jww.jpg)
 
-- [第一章：计算机网络体系结构](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
-- [第二章：物理层](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
-- [第三章：数据链路层](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
-- [第四章：网络层](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
-- [第五章：传输层](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
-- [第六章：应用层](https://github.com/ddy-ddy/cs-408/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+- 第一章：计算机网络体系结构](https://github.com/ddy-ddy/cs-408/tree/master/4%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+- [第二章：物理层](https://github.com/ddy-ddy/cs-408/tree/master/4%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+- [第三章：数据链路层](https://github.com/ddy-ddy/cs-408/tree/master/4%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+- [第四章：网络层](https://github.com/ddy-ddy/cs-408/tree/master/4%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+- [第五章：传输层](https://github.com/ddy-ddy/cs-408/tree/master/4%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+- [第六章：应用层](https://github.com/ddy-ddy/cs-408/tree/master/4%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 
 
 
 ## 六、王道书和刷题本
 
-- [2023年王道考研复习指导](https://github.com/ddy-ddy/cs-408/tree/master/%E7%8E%8B%E9%81%93%E4%B9%A6%E5%92%8C%E5%88%B7%E9%A2%98%E6%9C%AC/2023%E5%B9%B4%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E6%8C%87%E5%AF%BC)
-- [2023年选择题刷题本](https://github.com/ddy-ddy/cs-408/tree/master/%E7%8E%8B%E9%81%93%E4%B9%A6%E5%92%8C%E5%88%B7%E9%A2%98%E6%9C%AC/2023%E5%B9%B4%E9%80%89%E6%8B%A9%E9%A2%98%E5%88%B7%E9%A2%98%E6%9C%AC)
-- [2023年大题刷题本](https://github.com/ddy-ddy/cs-408/tree/master/%E7%8E%8B%E9%81%93%E4%B9%A6%E5%92%8C%E5%88%B7%E9%A2%98%E6%9C%AC/2023%E5%B9%B4%E5%A4%A7%E9%A2%98%E5%88%B7%E9%A2%98%E6%9C%AC)
+- [2023年王道考研复习指导](https://github.com/ddy-ddy/cs-408/tree/master/5%E7%8E%8B%E9%81%93%E4%B9%A6%E5%92%8C%E5%88%B7%E9%A2%98%E6%9C%AC/2023%E5%B9%B4%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94%E5%A4%8D%E4%B9%A0%E6%8C%87%E5%AF%BC)
+- [2023年选择题刷题本](https://github.com/ddy-ddy/cs-408/tree/master/5%E7%8E%8B%E9%81%93%E4%B9%A6%E5%92%8C%E5%88%B7%E9%A2%98%E6%9C%AC/2023%E5%B9%B4%E9%80%89%E6%8B%A9%E9%A2%98%E5%88%B7%E9%A2%98%E6%9C%AC)
+- [2023年大题刷题本](https://github.com/ddy-ddy/cs-408/tree/master/5%E7%8E%8B%E9%81%93%E4%B9%A6%E5%92%8C%E5%88%B7%E9%A2%98%E6%9C%AC/2023%E5%B9%B4%E5%A4%A7%E9%A2%98%E5%88%B7%E9%A2%98%E6%9C%AC)
 
 
 
 ## 七、其他资源
 
-- [2023大纲对比.xlsx](https://github.com/ddy-ddy/cs-408/blob/master/其他资源/2023大纲对比.xlsx)
+- [2023大纲对比.xlsx](https://github.com/ddy-ddy/cs-408/tree/master/6%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)
 
-- [历年真题考频统计.xlsx](https://github.com/ddy-ddy/cs-408/blob/master/其他资源/历年真题考频统计.xlsx)
+- [历年真题考频统计.xlsx](https://github.com/ddy-ddy/cs-408/tree/master/6%E5%85%B6%E4%BB%96%E8%B5%84%E6%BA%90)
 
 
 

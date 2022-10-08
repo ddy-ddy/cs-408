@@ -224,5 +224,6 @@
 - 可能大家看pdf不是很方便，我分享了[OneNote链接](https://1drv.ms/u/s!AvpCy58GefJpa0D63jFWUL7CUUI)。大家可以在线浏览并保存到本地
 - 可能mac端操作onenote没有win方便，导出pdf文件需要到移动端设备点击分享，然后导出pdf。
 - 还有就是访问OneNote链接好像要🪜，最好用Google打开。微软的速度一言难尽😂
-- 如果链接打不开或者无法保存到本地的话，可以下载[OneNote文件](https://github.com/ddy-ddy/cs-408/tree/master/onenote%E6%96%87%E4%BB%B6)然后再本地打开。
-
+- 如果链接打不开或者无法保存到本地的话，可以下载[OneNote文件](https://github.com/ddy-ddy/cs-408/tree/master/onenote%E6%96%87%E4%BB%B6)然后再本地打开
+- 如果大家github下载不了的话，可以到这个链接下载：[百度网盘](https://pan.baidu.com/s/1lIh523Cl8O2vA4Fr-gS5rA?pwd=ck30) ，提取码: ck30 
+    

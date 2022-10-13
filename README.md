@@ -1,3 +1,7 @@
+## ⭐️Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ddy-ddy/cs-408&type=Date)](https://star-history.com/#ddy-ddy/cs-408&Date)
+
 # 💻cs-408
 
 - 构建[本仓库](https://github.com/ddy-ddy/cs-408)的初衷是记录自己备考计算机专业课408的过程
@@ -226,4 +230,3 @@
 - 还有就是访问OneNote链接好像要🪜，最好用Google打开。微软的速度一言难尽😂
 - 如果链接打不开或者无法保存到本地的话，可以下载[OneNote文件](https://github.com/ddy-ddy/cs-408/tree/master/onenote%E6%96%87%E4%BB%B6)然后再本地打开
 - 如果大家github下载不了的话，可以到这个链接下载：[百度网盘](https://pan.baidu.com/s/1lIh523Cl8O2vA4Fr-gS5rA?pwd=ck30) ，提取码: ck30 
-    

@@ -143,8 +143,6 @@
 
 数据结构网上有很多质量很高的文章。有图解动画还有代码，这里推荐几个我看过的博客:[Data-Structres](https://github.com/callmePicacho/Data-Structres) | [算法大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/06.%E7%AE%97%E6%B3%95%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 
-数据结构部分的笔记自认为做的不是很好，主要是因为网上有很多博客讲解数据结构，自己知识搭了整个知识框架，具体的内容和考点还是不够精细的，如果有做的不好的地方，还请批评指正，后续也会结合我做题的情况改进笔记。
-
 👇下图是数据结构笔记中关于**二叉树四种遍历方式**的知识点：包括遍历过程，示例图，代码。![](https://tva1.sinaimg.cn/large/006y8mN6gy1h6rbolipvaj31r20u0qbo.jpg)
 
 - [第一章：绪论](https://github.com/ddy-ddy/cs-408/tree/master/1%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)

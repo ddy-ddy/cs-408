@@ -252,4 +252,5 @@
 - mac端操作onenote没有win方便，导出pdf文件需要到移动端设备点击分享，然后导出pdf
 - 访问OneNote链接要🪜，最好用Google打开。微软的速度一言难尽😂
 - 链接打不开或者无法保存到本地的话，可以下载[OneNote文件](https://github.com/ddy-ddy/cs-408/tree/master/onenote%E6%96%87%E4%BB%B6)然后在本地打开
-- 如果大家github下载不了的话，可以到这个链接下载：[百度网盘](https://pan.baidu.com/s/1lIh523Cl8O2vA4Fr-gS5rA?pwd=ck30) ，提取码: ck30 
+- 如果大家github下载不了的话，可以到这个链接下载：[百度网盘](https://pan.baidu.com/s/1XevgMm-8LashFEA1pzWsVw?pwd=6pi0) ，提取码: 6pi0
+

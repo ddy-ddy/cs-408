@@ -260,6 +260,3 @@
 - 链接打不开或者无法保存到本地的话，可以下载[OneNote文件](https://github.com/ddy-ddy/cs-408/tree/master/onenote%E6%96%87%E4%BB%B6)然后在本地打开
 - 如果大家github下载不了的话，可以到这个链接下载：[百度网盘](https://pan.baidu.com/s/1XevgMm-8LashFEA1pzWsVw?pwd=6pi0) ，提取码: 6pi0
 
-## 九
-- 如果觉得这个笔记还不错或者对你有帮助的话，可以请我喝杯咖啡吗(づ￣3￣)
-![](https://ddy-1310349779.cos.ap-shanghai.myqcloud.com/typora/IMG_6036.JPG)

@@ -2,7 +2,7 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ddy-ddy/cs-408&type=Date)](https://star-history.com/#ddy-ddy/cs-408&Date)
 
-# 💻cs-408
+## 💻cs-408
 
 - 构建[本仓库](https://github.com/ddy-ddy/cs-408)的初衷是记录自己备考计算机专业课408的过程
 - 本仓库收纳了**2023年四本王道复习指导书**，**2023年王道书上的刷题本**，**2024年王道书上的刷题本**
@@ -13,7 +13,8 @@
 
 祝大家考研顺利，一举上岸呀ヾ(◍°∇°◍)ﾉﾞ；如果这些内容对你有帮助的话，别忘了star和fork哦(๑′ᴗ‵๑)
 
-
+## 📒笔记
+  最近本人和小伙伴重新整理了一份最新的笔记，该笔记是**可打印的pdf版本**，大家可以加我微信**免费领取计算机组成原理**笔记哦。微信名：ddy_coding
 
 ## 💪🏻更新日志
 
